@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm currently working on a compiled language called Floe<br>🧭 I'm looking for help with a site for Floe<br>🎢 Fun fact: I love rollercoaster
+💻 I'm currently working on a compiled language called Floe<br>🧭 I'm looking for help with a site for Floe<br>🎢 Fun fact: I love rollercoasters
 
 
 ## 🌐 Socials:
