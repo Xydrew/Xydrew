@@ -1,5 +1,6 @@
 # 💫 About Me:
-💻 I'm currently working on a compiled language called Floe<br>🧭 I'm looking for help with a site for Floe<br>🎢 Fun fact: I love rollercoasters
+💻 I'm currently working on a compiled language called Floe<br>🧭 I'm looking for help with a site for Floe<br>🎢 Fun fact: I love rollercoasters<br>
+🌎 My favourite languages are Rust🦀, Lua and the C languages. (I hate C#)
 
 
 ## 🌐 Socials:
